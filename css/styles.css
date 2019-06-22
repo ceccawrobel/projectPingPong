@@ -1,0 +1,18 @@
+body {
+  background-color: lightgrey;
+  }
+
+#titleBar {
+  background-color: tan;
+  height: 200px;
+}
+
+#infoBar {
+  background-color: green;
+  height: 200px;
+  margin-top: 20px;
+}
+
+#actionSpace {
+  margin-top: 20px;
+}
