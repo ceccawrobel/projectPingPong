@@ -1,5 +1,5 @@
 # PROJECT PING PONG
-
+viewable [here](http://ceccawrobel.github.io/projectPingPong), courtesy github pages
 
 ## INSTRUCTIONS
 Enter a number. Watch it go!
