@@ -7,7 +7,7 @@ $(document).ready(function() {
 
     for (var index = 1; index <= count; index += 1) {
       if (index % 15 === 0) {
-        $("ul#outputList").append("<li>ping pong</li>")
+        $("ul#outputList").append("<li>ping pong!</li>")
       } else if (index % 5 === 0) {
         $("ul#outputList").append("<li>pong</li>")
       } else if (index % 3 === 0) {
